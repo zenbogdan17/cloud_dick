@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dataBase": "mongodb+srv://Tronix:+01102002@cloud.wwnlwx1.mongodb.net/cloud?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath": "D:\\web-projects\\mern-cloud-dick\\server\\files",
+  "staticPath": "D:\\web-projects\\mern-cloud-dick\\server\\static"
+}
